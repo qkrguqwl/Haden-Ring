@@ -1,0 +1,17 @@
+{
+  "name": "com.qkrguqwl.mypackage",
+  "displayName": "My Git Package",
+  "version": "1.0.0",
+  "unity": "2020.3",
+  "description": "Go to the Git.",
+  "keywords": ["Git", "Save", "Haden ring"],
+  "author": {
+    "name": "qkrguqwl",
+    "email": "qkrguqwl20040715@gmail.com",
+    "url": "https://example.com"
+  },
+  "dependencies": {
+    "com.unity.textmeshpro": "2.1.0",
+    "com.unity.cinemachine": "2.6.3"
+  }
+}
